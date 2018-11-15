@@ -1,0 +1,48 @@
+{
+      "@context": "http://schema.org/",
+      "@type": [
+         "Protein"
+      ],
+      "biologicalRole": [
+         "http://identifiers.org/GO:0005634",
+         "http://identifiers.org/GO:0009707"
+      ],
+      "identifier": "A2RVJ8",
+      "hasRepresentation": {
+         "additionalType": "http://edamontology.org/data_2974",
+         "@type": "PropertyValue",
+         "value": "MKKGAKRKGVSKAGRKAAVAETQNDEVIEETTKTTQEESQQHEEEVVDEVKENGEEEEAKGDQEEEEDAKPDSLEEDEENQEDEVKAEEVKEEVEKKPVARRGGKRKRATKKDTEIKDEKKPVPKAKKPRAAKVKEEPVYFEEKRSLEDLWKVAFPVGTEWDQLDALYEFNWDFQNLEEALEEGGKLYGKKVYVFGCTEPQLVPYKGANKIVHVPAVVVIESPFPPSDKIGITSVQREVEEIIPMKKMKMDWLPYIPIEKRDRQVDKMNSQIFTLGCTQRRSALRHMKEDQLKKFEYCLPYFYQPFKEDELEQSTEVQIMFPSEPPVVCEFDWEFDELQEFVDKLVEEEALPAEQADEFKEYVKEQVRAAKKANREAKDARKKAIEEMSEDTKQAFQKMKFYKFYPQPSPDTPDVSGVQSPFINRYYGKAHEVL"
+      },
+      "hasBioChementityPart": [
+         {
+            "@type": "SequenceAnnotation",
+            "biologicalRole": "http://identifiers.org/SO:0001812",
+            "creationMethod": {
+               "@type": "PropertyValue",
+               "value": "http://busca.biocomp.unibo.it/"
+            },
+            "sequenceLocation": [
+               {
+                  "@type": "SequenceRange",
+                  "rangeStart": 1,
+                  "rangeEnd": 24
+               }
+            ]
+         },
+         {
+            "@type": "SequenceAnnotation",
+            "biologicalRole": "http://identifiers.org/SO:0001408",
+            "creationMethod": {
+               "@type": "PropertyValue",
+               "value": "http://busca.biocomp.unibo.it/"
+            },
+            "sequenceLocation": [
+               {
+                  "@type": "SequenceRange",
+                  "rangeStart": 555,
+                  "rangeEnd": 581
+               }
+            ]
+         }
+      ]
+   }
