@@ -3,7 +3,7 @@
       "@type": [
          "Protein"
       ],
-      "biologicalRole": [
+      "isPartOfBioChemEntity": [
          "http://identifiers.org/GO:0005634",
          "http://identifiers.org/GO:0009707"
       ],
